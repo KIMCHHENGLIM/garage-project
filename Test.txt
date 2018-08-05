@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 Chheng
-=======
 Lin
-=======
->>>>>>> f8e401caedbe11c8f937045b0440ff5b47dc15f5
 Chhaknak
->>>>>>> 8661eb298ee37c5efcc585c99126b564456ebb97
