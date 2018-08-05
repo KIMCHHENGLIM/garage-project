@@ -9,3 +9,6 @@ c:\users\ironheartcyber\documents\visual studio 2015\Projects\Garage System\Gara
 C:\Users\IronHeartCyber\Documents\Visual Studio 2015\Projects\Garage System\Garage System\obj\Debug\Garage_System.MainForm.resources
 C:\Users\IronHeartCyber\Documents\Visual Studio 2015\Projects\Garage System\Garage System\obj\Debug\Garage System.csprojResolveAssemblyReference.cache
 C:\Users\IronHeartCyber\Documents\Visual Studio 2015\Projects\Garage System\Garage System\obj\Debug\Garage_System.Custom_MassageBox.resources
+C:\Users\GAMER\Desktop\Test\garage-project\Garage System\Garage System\bin\Debug\Garage System.exe.config
+C:\Users\GAMER\Desktop\Test\garage-project\Garage System\Garage System\obj\Debug\Garage System.exe
+C:\Users\GAMER\Desktop\Test\garage-project\Garage System\Garage System\obj\Debug\Garage System.pdb
