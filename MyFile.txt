@@ -1,4 +1,5 @@
 <<<<<<< .mine
+<<<<<<< .mine
 Hello
 Chhaknak Here
 =======
@@ -6,3 +7,13 @@ MyNameChheng
 
 >>>>>>> .theirs
 dddddd
+=======
+MyNameChhengMeChheng
+
+
+
+
+
+
+
+>>>>>>> .theirs
