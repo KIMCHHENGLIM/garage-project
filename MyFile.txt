@@ -1,2 +1,8 @@
+<<<<<<< .mine
 Hello
 Chhaknak Here
+=======
+MyNameChheng
+
+>>>>>>> .theirs
+dddddd
