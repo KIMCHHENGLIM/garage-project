@@ -1,5 +1,28 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< .mine
+<<<<<<< .mine
+Hello
+Chhaknak Here
+@@@@@@@@@@@@@@ TESTING GIT
+=======
+MyNameChheng
+
+>>>>>>> .theirs
+dddddd
+=======
+MyNameChhengMeChheng
+
+
+
+
+
+
+
+>>>>>>> .theirs
+=======
 MyNameChheng HelloGGWP
+>>>>>>> 01110581fac2f2034d0788bf1bacdee88eb7b04a
 =======
 MyNameChhengMeChhengdsadasd
 >>>>>>> 72f358991a30623eedb5cfa1c8cba64ed741daea
